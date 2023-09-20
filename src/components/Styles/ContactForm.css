@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+
+
+.contact-header{
+    font-family: 'Merienda', sans-serif;
+}
+
+.submit-btn{
+    border-radius: 10px 10px 35px 10px;
+}
+
+.link:hover{
+    color: #b5b3b3;
+}

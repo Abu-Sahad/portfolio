@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+    width: 360px;
+    height: 440px;
+    margin-top: 100px;
+    background: rgba(0, 0, 0, 0);
+    transform: rotate(20deg) skew() scale(0.8);
+    transition: 0.5s;
+  }
+  .container img {
+    position: absolute;
+    width: 100%;
+    transition: 0.5s;
+  }
+  .container:hover img:nth-child(4) {
+    transform: translate(160px, -160px);
+    opacity: 1;
+  }
+  .container:hover img:nth-child(3) {
+    transform: translate(120px, -120px);
+    opacity: 0.8;
+  }
+  .container:hover img:nth-child(2) {
+    transform: translate(80px, -80px);
+    opacity: 0.6;
+  }
+  .container:hover img:nth-child(1) {
+    transform: translate(40px, -40px);
+    opacity: 0.4;
+  }
+  

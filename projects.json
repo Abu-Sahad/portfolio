@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : "aaaaaaaa1",
+        "name" : "Rock Auto",
+        "image1" : "https://i.ibb.co/JtdQxXs/screenshot.png",
+        "image2" : "https://i.ibb.co/XpWWFqD/screenshot-1.png",
+        "image3" : "https://i.ibb.co/T00Y8Z2/screenshot-2.png",
+        "details" : "A website where user can create account by both email, password and google. The user can also order parts and pay for his orders. The User can see what he/she had ordered and can also cancel his/her orders .A User can update his profile and review from review us page.An admin can add products , update products , delete product , remove user and cancel orders etc ",
+        "technology" : "Client site tech : React , Firebase , React Router , Tailwind CSS , Daisy Ui ,  Express JS , MongoDb , cors , dotenv , Stripe payment .",
+        "live" : "https://rockauto-ceee5.web.app/",
+        "client" : "https://github.com/iamshs/rockauto-client",
+        "server": "https://github.com/iamshs/rockAuto-server"
+    },
+    {
+        "_id" : "aaaaaaaa11111",
+        "name" : "Pop Critic",
+        "image1" : "https://i.ibb.co/d5rRyGb/pop.png",
+        "image2" : "https://i.ibb.co/f1P6qpr/pop-2.png",
+        "image3" : "https://i.ibb.co/M1L1MRj/pop-3.png",
+        "details" : "A Movie ratting application where viewer can rate a movie and can see the details information about the movie from Details page. ",
+        "technology" : "ReactJS , React-Router, CSS3 , SwiperJS , React Icon, Material Ui",
+        "live" : "https://pop-critic.web.app/",
+        "client" : "https://github.com/iamshs/pop-critic",
+        "server": "https://github.com/iamshs/pop-server"
+    },
+    {
+        "_id" : "aaaaaaaa123",
+        "name" : "Buy Smart",
+        "image1" : "https://i.ibb.co/8XXWnwG/de1.png",
+        "image2" : "https://i.ibb.co/y5rNpfs/screenshot-1.png",
+        "image3" : "https://i.ibb.co/S7zxZvs/screenshot.png",
+        "details" : "Buy smart is a single page E-commerce application where user can create account by both Email, password and Google.An user can also add products to cart ",
+        "technology" : "ReactJS , React-Router, Firebase , Tailwind CSS , DaisyUi,CSS3",
+        "live" : "https://buy-smart-bcec1.web.app/",
+        "client" : "https://github.com/iamshs/buy-smart",
+        "server": ""
+    },
+    {
+        "_id" : "aaaaaaaa176126",
+        "name" : "Figass",
+        "image1": "https://i.ibb.co/MM8zDf5/mo1.png",
+        "image2": "https://i.ibb.co/NjtdfZ1/fi2.png",
+        "image3": "https://i.ibb.co/6ryQd46/fi3.png",
+        "details" : "It's a single page application for cafe and food services.All kinds of services have shown on the website in details.",
+        "technology" : "ReactJS , React-Router, SwiperJs ,CSS3",
+        "live" : "https://figgas.web.app/",
+        "client" : "https://github.com/iamshs/figgas",
+        "server": ""
+    }
+]

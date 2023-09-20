@@ -1,0 +1,70 @@
+[
+    {
+        "_id": "aaaaaaaa1",
+        "name": " Musician Summer Camp",
+        "image1": "https://i.ibb.co/7tg1VtS/project-1.jpg",
+        "image2": "https://i.ibb.co/Kwxy81Z/image-2.jpg",
+        "image3": "https://i.ibb.co/sVGsWgq/image-3.jpg",
+        "details": "Actually there is a music camp school here.This summer camp school offers a variety of instrumental classes throughout the summer break from all schools. Furthermore, taking these courses can help students improve their extracurricular activities.",
+        "features": [
+            "1. First, the user logs in or registers, and then some courses, trainers, etc. information can be seen on the home page. Users can check all instructor profiles to purchase any class and pay for the course successfully.",
+            "2. Instructor Create a course to wait for admin approval. The instructor sees the class list and feedback.",
+            "3. The managing class will see admin and admin can make any user an instructor or admin"
+        ],
+        "technology": "React , Firebase , React Router , Tailwind CSS , Daisy Ui ,  Express JS , MongoDb , cors , dotenv , Stripe payment .",
+        "live": "https://music-instrument-fa53a.web.app/",
+        "client": "https://github.com/Abu-Sahad/musician_school_client",
+        "server": "https://github.com/Abu-Sahad/musician_school_server"
+    },
+    {
+        "_id": "aaaaaaaa11111",
+        "name": " ThreadZone eCommerce",
+        "image1": "https://i.ibb.co/3mk228p/image-4.jpg",
+        "image2": "https://i.ibb.co/ysCQKsP/image-5.jpg",
+        "image3": "https://i.ibb.co/VxRck72/image-6.jpg",
+        "details": "It is a MERN stack teamwork e-commerce-related Project. Where common users can see product lists, shop lists, dashboards etc. This website is divided into three sections Admin, Seller, and User",
+        "features": [
+            "1.Customer Site: Filter products on the basis of price, category, size, band, rating Chart.js. an real analysis of sells Notification System, Coupon discount ",
+            "2. Seller Site: Anyone can open a shop and sell a product. The dashboard ",
+            "3. Admin site: Monitor Everything, Analysis with dashboard chart, Delivery Product"
+        ],
+        "technology": "MongoDB, Express Js, React Router, Axios, Transtack Query, Firebase(Authentication),Chart.js",
+        "live": "https://threadzone-30d7b.web.app/",
+        "client": "https://github.com/Abu-Sahad/musician_school_client",
+        "server": "https://github.com/Abu-Sahad/threadZone-server"
+    },
+    {
+        "_id": "aaaaaaaa123",
+        "name": "Autixir Toy Zone",
+        "image1": "https://i.ibb.co/Nx4PhDh/image-7.jpg",
+        "image2": "https://i.ibb.co/7pvpGZn/image-8.jpg",
+        "image3": "https://i.ibb.co/98kxtbd/image-9.jpg",
+        "details": "This page is about Autixir toys. where the public can view toys and discover more about them. Anyone can create an account and include their preferred toys",
+        "features": [
+            "1.Authentication system with Google. ",
+            "2.The user can add any toy and view, change, and delete it.",
+            "3.Users have access to information about other users' toys."
+        ],
+        "technology": "MongoDB, Express Js, React Router, Axios, Transtack Query, Firebase(Authentication)",
+        "live": "https://autixir-aef09.web.app/",
+        "client": "https://github.com/Abu-Sahad/autixir_client",
+        "server": "https://github.com/Abu-Sahad/autixir_server"
+    },
+    {
+        "_id": "aaaaaaa1123",
+        "name": "Chef Hut",
+        "image1": "https://i.ibb.co/xCdfTPW/image13.jpg",
+        "image2": "https://i.ibb.co/jkRVPY2/image11.jpg",
+        "image3": "https://i.ibb.co/mqZXH1w/image12.jpg",
+        "details": "This is a recipe-based website where we can find different chefs ",
+        "features": [
+            "1.Authentication system with Google ",
+            "2.Collection of categorized by chefs.",
+            "3. user can see all the CEFS recipes and add the recipe to their favorite section"
+        ],
+        "technology": "MongoDB, Express Js, React Router, Axios, Transtack Query, Firebase(Authentication)",
+        "live": "https://autixir-aef09.web.app/",
+        "client": "https://github.com/Abu-Sahad/Cafe_hut_client",
+        "server": "https://github.com/Abu-Sahad/CafeHutServer"
+    }
+]
